@@ -1,4 +1,4 @@
-# Métodos Computacionais de Matemática Aplicada - MCAL
+# Métodos Computacionais de Álgebra Linear - MCAL
 
 Encontra-se no site abaixo vários programas implementados em Matlab, todos relacionados às atividades da disciplina MCAL
 
